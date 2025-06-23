@@ -1,8 +1,12 @@
 {
-  "name": "kronyx-bot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "displayName": "Giteria",
+  "license": "AGPL-3.0 license",
+  "description": "Giteria is the primary bot of the Giteria Discord.",
+  "author": "Sky Genesis Enterprise",
+  "email": "contact@skygenesisenterprise.com",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/kronyxgames/kronyx-bot.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/kronyxgames/kronyx-bot/issues"
   },
