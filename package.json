@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/kronyxgames/kronyx-bot#readme",
   "dependencies": {
-    "discord.js": "^14.20.0",
+    "discord.js": "^14.21.0",
     "dotenv": "^16.5.0",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
